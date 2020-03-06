@@ -1,10 +1,16 @@
-### Xiang Gao
-
-Email: xgao@ouc.edu.cn
-
-[Official Homepage](http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm)
-
-[Google Scholar](https://scholar.google.com/citations?user=TFihLXoAAAAJ&hl=zh-CN)
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Xiang Gao</h1>
+      <p><b>Email: xgao@ouc.edu.cn</b></p>
+      <p><b>[Official Homepage](http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm)</b></p>
+      <p><b>[Google Scholar](https://scholar.google.com/citations?user=TFihLXoAAAAJ&hl=zh-CN)</b></p>
+    </td>
+    <td width="25%">
+      <img src="/xgao.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 ### Education & Work Experience
 
