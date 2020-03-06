@@ -21,8 +21,7 @@
           </td>
           <td width="30%">
             <div class="instructorphoto">
-              <img onmouseover="document.getElementById('georgia').src='teasers/me_in_crazy.JPG';"
-              onmouseout="document.getElementById('georgia').src='/xgao.jpg';"src="/xgao.jpg" id="georgia">
+              <img src="/xgao.jpg">
             </div>
           </td>
         </tr>
