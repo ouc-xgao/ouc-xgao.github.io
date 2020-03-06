@@ -1,34 +1,3 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="teasers/favicon.ico" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  
-<title>Georgia Gkioxari</title>
-
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-  <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
-  <link href="css/style.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="js/hidebib.js"></script>
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-40545479-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-
-</head>
-
 <body>
   <div class="container">
     <table width="900" border="0" align="center" cellpadding="20">
@@ -114,4 +83,3 @@ hideallbibs();
 
           
 </body>
-</html>
