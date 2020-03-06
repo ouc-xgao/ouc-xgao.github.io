@@ -28,15 +28,15 @@ Email: xgao@ouc.edu.cn
 
 ### Awards
 
-1. CVPR 2019 Long-Term Visual Localization Challenge 1st Place
+1. [CVPR 2019 Long-Term Visual Localization Challenge 1st Place](https://sites.google.com/view/ltvl2019)
 
 ### Reviewers
 
-1. International Journals: IEEE TIP, TGRS, TCSVT, Access, JSTARS; Springer TVCJ.
+1. International Journals: IEEE [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), [TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), [Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [JSTARS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443); Springer [TVCJ](https://www.springer.com/journal/371/)
 
-2. Chinese Journals: 自动化学报; 计算机辅助设计与图形学学报
+2. Chinese Journals: [自动化学报](http://www.aas.net.cn/); [计算机辅助设计与图形学学报](http://www.jcad.cn/jcadcms/news/100000/index.shtml)
 
-3. International Conferences: IAPR MVA 2017
+3. International Conferences: IAPR [MVA 2017](http://www.mva-org.jp/mva2017/)
 
 ### Selected Publications
 
