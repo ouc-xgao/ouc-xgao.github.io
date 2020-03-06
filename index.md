@@ -6,19 +6,7 @@ Email: xgao@ouc.edu.cn
 
 [Google Scholar](https://scholar.google.com/citations?user=TFihLXoAAAAJ&hl=zh-CN)
 
-### Education & Work Experience
-
-1. 2019.08-present: Assistant Professor, College of Engineering, Ocean University of China
-
-2. 2015.09-2019.06: Ph.D., Institute of Automation, Chinese Academy of Sciences
-
-3. 2012.09-2015.06: M.S., College of Engineering, Ocean University of China
-
-4. 2008.09-2012.06: B.S., College of Engineering, Ocean University of China
-
-### Research Interests
-
-3D Computer Vision: Multi-source Data Fusion-based Large-scale Scene 3D Modeling
+I am an assistant professor in College of Engineering, Ocean University of China. I received the Ph.D. Degree from University of Chinese Academy of Sciences, where I was advised by Prof. [Zhanyi Hu](http://vision.ia.ac.cn/zh/faculty/zyhu/index.html) and Prof. [Shuhan Shen](http://vision.ia.ac.cn/Faculty/shshen/index.htm). Before that, I received the M.S. and B.S. Degrees both from Ocean University of China, where I was advised by Prof. [Zexiao Xie](http://coe.ouc.edu.cn/2017/0504/c9094a63878/page.htm). My research interest is 3D computer vision, with a particular interest in multi-scource data fusion-based large-scale 3D reconstruction.
 
 ### Projects
 
