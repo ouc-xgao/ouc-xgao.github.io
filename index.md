@@ -1,84 +1,67 @@
-<body>
-  <div class="container">
-    <table width="900" border="0" align="center" cellpadding="20">
-      <table width="90%" align="center" border="0" cellpadding="10">
-        <tr>
-          <td width="70%" valign="top">
-            <p align="center">&nbsp;</p>
+### Xiang Gao
 
-            <p align="center"><font size="6px">Xiang Gao</font><br>
-            xgao@ouc.edu</p>
+Email: xgao@ouc.edu.cn
 
-            <p>I am a research scientist at <a href="https://research.facebook.com/ai/">FAIR</a>. I received my PhD from <a href="http://www.berkeley.edu/">UC Berkeley</a>, where I was advised by <a href="http://www.cs.berkeley.edu/~malik/">Jitendra Malik</a>. I did my bachelors in <a href="http://www.ece.ntua.gr/">ECE</a> at <a href="http://www.ntua.gr/">NTUA</a> in Athens, Greece, where I worked with <a href="http://cvsp.cs.ntua.gr/maragos/">Petros Maragos</a>.</p>
+[Official Homepage](http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm)
 
-            <p>In the past, I have spent time at Google Brain and Google Research, where I worked with <a href="http://www.cs.toronto.edu/~ndjaitly">Navdeep Jaitly</a> and <a href="https://research.google.com/pubs/AlexanderToshev.html">Alexander Toshev</a>.</p>
+[Google Scholar](https://scholar.google.com/citations?user=TFihLXoAAAAJ&hl=zh-CN)
 
-            <p> <a href="cv_gkioxari.pdf"><img src="icons/cv.png" height="16"></a> / 
-                <a href="https://www.linkedin.com/in/georgia-gkioxari-16967b20" target="_blank" ><img src="icons/linkedin.png" height="16"></a> / 
-                <a href="https://scholar.google.com/citations?user=kQisE-gAAAAJ&hl=en" target="_blank"><img src="icons/google_scholar.png" height="16"></a> /
-                <a href="https://github.com/gkioxari/" target="_blank" ><img src="icons/github_alt.png" height="16"></a> 
-            </p>
-          </td>
-          <td width="30%">
-            <div class="instructorphoto">
-              <img src="/xgao.jpg">
-            </div>
-          </td>
-        </tr>
-      </table>
-    </table>
-  </div>
-  <br>
+### Education & Work Experience
 
-  <div class="container">
-    <table width="90%" border="0" align="center" cellpadding="20">
-    <h2>News</h2>
-      <div class="news">
-        <ul>
-         <li><span> We released <a href="https://github.com/facebookresearch/pytorch3d">PyTorch3D</a>, a 3D deep learning library! Try it out! 
-         <li><span> Thank you Re-Work! <a href="https://blog.re-work.co/top-women-in-ai-2019/">https://blog.re-work.co/top-women-in-ai-2019/</a></span></li>
-         <li><span> I will be a Program Chair for CVPR 2021!</span></li>
-         <li><span> At ICCV 2019, I gave a talk at the <a href="http://picdataset.com/challenge/index/">Person In Context</a> workshop, the <a href="https://sites.google.com/view/gmdl2019/home">Geometry Meets Deep Learning</a> workshop, as well as the </a>
-         <a href="https://alexander-kirillov.github.io/tutorials/visual-recognition-iccv19/">Visual Recognition for Images, Video and 3D</a> tutorial.
-         <li><span> At CVPR 2019, I gave at talk at the <a href="https://sites.google.com/view/sem-vis-nav">Deep Learning for Visual Navigation</a> workshop and the <a href="https://motchallenge.net/workshops/bmtt2019/program.html">Benchmarking Multi-Target Tracking: How crowded can it get?</a> workshop. Slides are shared at the workshops' webpages.
-         <li><span> I am excited to be (a tiny) part of the <a href="https://aims-ammi.com/">African Master's of Machine Intelligence</a> at AIMS (<a href="teasers/ammi.jpg">pic</a>)</span></li>
-        </ul>
-      </div>
-    </table>
-  </div>
-  <br>
+1. 2019.08-present: Assistant Professor, College of Engineering, Ocean University of China
 
-  <div class="container">
-    <h2> Publications </h2>
+2. 2015.09-2019.06: Ph.D., Institute of Automation, Chinese Academy of Sciences
 
-    <div class="publication">
-      <table width="900" align="center" border="0" cellpadding="0">
-        <td width="25%" valign="top"><img src="http://www.robots.ox.ac.uk/~ow/videos/media5.gif" alt="game" width="80" height="50" style="border-style: none"><img src="http://www.robots.ox.ac.uk/~ow/videos/media2.gif" alt="game" width="80" height="50" style="border-style: none"><img src="http://www.robots.ox.ac.uk/~ow/videos/media16.gif" alt="game" width="80" height="50" style="border-style: none"><img src="http://www.robots.ox.ac.uk/~ow/videos/media25.gif" alt="game" width="80" height="50" style="border-style: none">
-        <td width="75%" valign="top">
-          <p><a href="https://arxiv.org/pdf/1912.08804"><heading>SynSin: End-to-end View Synthesis from a Single Image</heading></a><br>
-          <a href="http://www.robots.ox.ac.uk/~ow">Olivia Wiles</a>, <strong> Georgia Gkioxari</strong>, <a href="https://research.fb.com/people/szeliski-richard/"> Richard Szeliski</a>, <a href="https://cs.stanford.edu/people/jcjohns/"> Justin Johnson</a><br>
-          
-          <div class="paper" id="synsin">
-            <a href="https://arxiv.org/abs/1912.08804">arxiv</a> /
-            <a href="http://www.robots.ox.ac.uk/~ow/synsin.html">project page</a> /
-            <a shape="rect" href="javascript:togglebib('synsin')" class="togglebib">bibtex</a>
-            <pre xml:space="preserve">
-@article{synsin,
-Title={SynSin: End-to-end View Synthesis from a Single Image},
-Author={Olivia Wiles, Georgia Gkioxari, Richard Szeliski, Justin Johnson},
-Journal={arXiv 1912.08804},
-Year={2019}}
-            </pre>             
-          </div>
-        </td> 
-        </td>
-      </table>
-    </div>
-    <hr>
- 
-<script xml:space="preserve" language="JavaScript">
-hideallbibs();
-</script>
+3. 2012.09-2015.06: M.S., College of Engineering, Ocean University of China
 
-          
-</body>
+4. 2008.09-2012.06: B.S., College of Engineering, Ocean University of China
+
+### Research Interests
+
+3D Computer Vision: Multi-source Data Fusion-based Large-scale Scene 3D Modeling
+
+### Projects
+
+1. 2020.01-2021.12: Multi-source Data Fusion-based Indoor Scene 3D Modeling, Open Projects Program of National Laboratory of Pattern Recognition (202000010), Project Leader
+
+2. 2019.01-2022.12: Research on Aerial and Ground Images Fusion for Ancient Chinese Architecture 3D Digital Preservation, National Science Foundation of China (61873265), Project Participant
+
+### Awards
+
+1. CVPR 2019 Long-Term Visual Localization Challenge 1st Place
+
+### Reviewers
+
+1. International Journals: IEEE TIP, TGRS, TCSVT, Access, JSTARS; Springer TVCJ.
+
+2. Chinese Journals: 自动化学报; 计算机辅助设计与图形学学报
+
+3. International Conferences: IAPR MVA 2017
+
+### Selected Publications
+
+#### Journal Papers
+
+1. Xiang Gao, Shuhan Shen, Yang Zhou, Hainan Cui, Lingjie Zhu, and Zhanyi Hu. Ancient Chinese Architecture 3D Preservation by Merging Ground and Aerial Point Clouds. ISPRS Journal of Photogrammetry and Remote Sensing (P&RS), 2018. (IF: 6.942, h5-index: 69) [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S092427161830131X/pdf)
+
+2. Xiang Gao, Lihua Hu, Hainan Cui, Shuhan Shen, and Zhanyi Hu. Accurate and Efficient Ground-to-Aerial Model Alignment. Pattern Recognition (PR), 2018. (IF: 5.898, CCF-B, h5-index: 79) [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S0031320317304570/pdf)
+
+3. Xiang Gao, Shuhan Shen, Lingjie Zhu, Tianxin Shi, Zhiheng Wang, and Zhanyi Hu. Complete Scene Reconstruction by Merging Images and Laser Scans. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2019. (IF: 4.046, CCF-B, h5-index: 63) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850072)
+
+4. Xiang Gao, Shuhan Shen, Zhanyi Hu, and Zhiheng Wang. Ground and Aerial Meta-data Integration for Localization and Reconstruction: A Review. Pattern Recognition Letters (PRL), 2019. (IF: 2.810, CCF-C, h5-index: 55) [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S0167865518303544/pdf)
+
+5. Xiang Gao, Hainan Cui, Lingjie Zhu, Tianxin Shi, and Shuhan Shen. Multi-source Data-based 3D Digital Preservation of Large-scale Ancient Chinese Architecture: A Case Report. Virtual Reality and Intelligent Hardware (VRIH), 2019. [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S2096579619300671/pdf)
+
+#### Conference Papers
+
+1. Hainan Cui, Xiang Gao, Shuhan Shen, and Zhanyi Hu. HSfM: Hybrid Structure-from-Motion. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. (Spotlight, CCF-A, h5-index: 240) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099740)
+
+2. Lingjie Zhu, Shuhan Shen, Xiang Gao, and Zhanyi Hu. Large Scale Urban Scene Modeling from MVS Meshes. European Conference on Computer Vision (ECCV), 2018. (CCF-B, h5-index: 137) [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01252-6_38.pdf)
+
+3. Hainan Cui, Shuhan Shen, Xiang Gao, and Zhanyi Hu. Batched Incremental Structure-from-Motion. International Conference on 3D Vision (3DV), 2017. (Spotlight, CCF-C, h5-index: 29) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374573)
+
+4. Hainan Cui, Shuhan Shen, Xiang Gao, and Zhanyi Hu. CSfM: Community-based Structure from Motion. IEEE International Conference on Image Processing (ICIP), 2017. (CCF-C, h5-index: 45) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8297137)
+
+5. Yang Zhou, Shuhan Shen, Xiang Gao, and Zhanyi Hu. Accurate Mesh-based Alignment for Ground and Aerial Multi-view Stereo Models. IEEE International Conference on Image Processing (ICIP), 2017. (CCF-C, h5-index: 45) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296758)
+
+6. Tianxin Shi, Shuhan Shen, Xiang Gao, and Lingjie Zhu. Visual Localization Using Sparse Semantic 3D Map. IEEE International Conference on Image Processing (ICIP), 2019. (CCF-C, h5-index: 45) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8802957)
