@@ -8,13 +8,13 @@ Email: xgao@ouc.edu.cn
 
 ### Education & Work Experience
 
-1. 2019.08-present: Assistant Professor, College of Engineering, Ocean University of China
+1. 2019.08-present: Assistant Professor, [College of Engineering](http://coe.ouc.edu.cn/), [Ocean University of China](http://www.ouc.edu.cn/)
 
-2. 2015.09-2019.06: Ph.D., Institute of Automation, Chinese Academy of Sciences, advised by Prof. [Zhanyi Hu](http://vision.ia.ac.cn/zh/faculty/zyhu/index.html) and Prof. [Shuhan Shen](http://vision.ia.ac.cn/Faculty/shshen/index.htm)
+2. 2015.09-2019.06: Ph.D., [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), advised by Prof. [Zhanyi Hu](http://vision.ia.ac.cn/zh/faculty/zyhu/index.html) and Prof. [Shuhan Shen](http://vision.ia.ac.cn/Faculty/shshen/index.htm)
 
-3. 2012.09-2015.06: M.S., College of Engineering, Ocean University of China, advised by Prof. [Zexiao Xie](http://coe.ouc.edu.cn/2017/0504/c9094a63878/page.htm)
+3. 2012.09-2015.06: M.S., [College of Engineering](http://coe.ouc.edu.cn/), [Ocean University of China](http://www.ouc.edu.cn/), advised by Prof. [Zexiao Xie](http://coe.ouc.edu.cn/2017/0504/c9094a63878/page.htm)
 
-4. 2008.09-2012.06: B.S., College of Engineering, Ocean University of China
+4. 2008.09-2012.06: B.S., [College of Engineering](http://coe.ouc.edu.cn/), [Ocean University of China](http://www.ouc.edu.cn/)
 
 ### Research Interests
 
