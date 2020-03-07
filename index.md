@@ -1,6 +1,6 @@
 ### Xiang Gao
 
-img src = "/google scholar.jpg"
+img src="/email.jpg"
 
 Email: xgao@ouc.edu.cn
 
