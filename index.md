@@ -42,15 +42,17 @@ Email: xgao@ouc.edu.cn
 
 #### Journal Papers
 
-1. Xiang Gao, Shuhan Shen, Yang Zhou, Hainan Cui, Lingjie Zhu, and Zhanyi Hu. Ancient Chinese Architecture 3D Preservation by Merging Ground and Aerial Point Clouds. ISPRS Journal of Photogrammetry and Remote Sensing (P&RS), 2018. (IF: 6.942, h5-index: 69) [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S092427161830131X/pdf)
+1. Xiang Gao, Shuhan Shen, Yang Zhou, Hainan Cui, Lingjie Zhu, and Zhanyi Hu. [Ancient Chinese Architecture 3D Preservation by Merging Ground and Aerial Point Clouds](https://www.sciencedirect.com/sdfe/reader/pii/S092427161830131X/pdf). ISPRS Journal of Photogrammetry and Remote Sensing (P&RS), 2018. (IF: 6.942, h5-index: 69)
 
-2. Xiang Gao, Lihua Hu, Hainan Cui, Shuhan Shen, and Zhanyi Hu. Accurate and Efficient Ground-to-Aerial Model Alignment. Pattern Recognition (PR), 2018. (IF: 5.898, CCF-B, h5-index: 79) [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S0031320317304570/pdf)
+2. Xiang Gao, Lihua Hu, Hainan Cui, Shuhan Shen, and Zhanyi Hu. [Accurate and Efficient Ground-to-Aerial Model Alignment](https://www.sciencedirect.com/sdfe/reader/pii/S0031320317304570/pdf). Pattern Recognition (PR), 2018. (IF: 5.898, CCF-B, h5-index: 79)
 
-3. Xiang Gao, Shuhan Shen, Lingjie Zhu, Tianxin Shi, Zhiheng Wang, and Zhanyi Hu. Complete Scene Reconstruction by Merging Images and Laser Scans. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2019. (IF: 4.046, CCF-B, h5-index: 63) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850072)
+3. Xiang Gao, Shuhan Shen, Lingjie Zhu, Tianxin Shi, Zhiheng Wang, and Zhanyi Hu. [Complete Scene Reconstruction by Merging Images and Laser Scans](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850072). IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2019. (IF: 4.046, CCF-B, h5-index: 63)
 
-4. Xiang Gao, Shuhan Shen, Zhanyi Hu, and Zhiheng Wang. Ground and Aerial Meta-data Integration for Localization and Reconstruction: A Review. Pattern Recognition Letters (PRL), 2019. (IF: 2.810, CCF-C, h5-index: 55) [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S0167865518303544/pdf)
+4. Xiang Gao, Shuhan Shen, Zhanyi Hu, and Zhiheng Wang. [Ground and Aerial Meta-data Integration for Localization and Reconstruction: A Review](https://www.sciencedirect.com/sdfe/reader/pii/S0167865518303544/pdf). Pattern Recognition Letters (PRL), 2019. (IF: 2.810, CCF-C, h5-index: 55)
 
-5. Xiang Gao, Hainan Cui, Lingjie Zhu, Tianxin Shi, and Shuhan Shen. Multi-source Data-based 3D Digital Preservation of Large-scale Ancient Chinese Architecture: A Case Report. Virtual Reality and Intelligent Hardware (VRIH), 2019. [PDF](https://www.sciencedirect.com/sdfe/reader/pii/S2096579619300671/pdf)
+5. Lingjie Zhu, Shuhan Shen, Xiang Gao, and Zhanyi Hu. Urban Scene Vectorized Modeling Based on Contour Deformation. ISPRS International Journal of Geo-Information (IJGI), 2020. (IF: 1.840, h5-index: 31)
+
+6. Xiang Gao, Hainan Cui, Lingjie Zhu, Tianxin Shi, and Shuhan Shen. [Multi-source Data-based 3D Digital Preservation of Large-scale Ancient Chinese Architecture: A Case Report](https://www.sciencedirect.com/sdfe/reader/pii/S2096579619300671/pdf). Virtual Reality and Intelligent Hardware (VRIH), 2019.
 
 #### Conference Papers
 
