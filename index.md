@@ -1,8 +1,6 @@
 ### Xiang Gao
 
-<img src="/email.jpg">
-
-Email: xgao@ouc.edu.cn
+<[img src="/email.jpg"](xgao@ouc.edu.cn)>
 
 [Official Homepage](http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm)
 
