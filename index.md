@@ -56,14 +56,14 @@ Email: xgao@ouc.edu.cn
 
 #### Conference Papers
 
-1. Hainan Cui, Xiang Gao, Shuhan Shen, and Zhanyi Hu. HSfM: Hybrid Structure-from-Motion. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. (Spotlight, CCF-A, h5-index: 240) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099740)
+1. Hainan Cui, Xiang Gao, Shuhan Shen, and Zhanyi Hu. [HSfM: Hybrid Structure-from-Motion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099740). [IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017](http://cvpr2017.thecvf.com/). (Spotlight, CCF-A, h5-index: 240)
 
-2. Lingjie Zhu, Shuhan Shen, Xiang Gao, and Zhanyi Hu. Large Scale Urban Scene Modeling from MVS Meshes. European Conference on Computer Vision (ECCV), 2018. (CCF-B, h5-index: 137) [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01252-6_38.pdf)
+2. Lingjie Zhu, Shuhan Shen, Xiang Gao, and Zhanyi Hu. [Large Scale Urban Scene Modeling from MVS Meshes](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01252-6_38.pdf). [European Conference on Computer Vision (ECCV), 2018](https://eccv2018.org/). (CCF-B, h5-index: 137)
 
-3. Hainan Cui, Shuhan Shen, Xiang Gao, and Zhanyi Hu. Batched Incremental Structure-from-Motion. International Conference on 3D Vision (3DV), 2017. (Spotlight, CCF-C, h5-index: 29) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374573)
+3. Hainan Cui, Shuhan Shen, Xiang Gao, and Zhanyi Hu. [Batched Incremental Structure-from-Motion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374573). [International Conference on 3D Vision (3DV), 2017](http://irc.cs.sdu.edu.cn/3dv/index.html). (Spotlight, CCF-C, h5-index: 29)
 
-4. Hainan Cui, Shuhan Shen, Xiang Gao, and Zhanyi Hu. CSfM: Community-based Structure from Motion. IEEE International Conference on Image Processing (ICIP), 2017. (CCF-C, h5-index: 45) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8297137)
+4. Hainan Cui, Shuhan Shen, Xiang Gao, and Zhanyi Hu. [CSfM: Community-based Structure from Motion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8297137). [IEEE International Conference on Image Processing (ICIP), 2017](http://www.2017.ieeeicip.org/). (CCF-C, h5-index: 45)
 
-5. Yang Zhou, Shuhan Shen, Xiang Gao, and Zhanyi Hu. Accurate Mesh-based Alignment for Ground and Aerial Multi-view Stereo Models. IEEE International Conference on Image Processing (ICIP), 2017. (CCF-C, h5-index: 45) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296758)
+5. Yang Zhou, Shuhan Shen, Xiang Gao, and Zhanyi Hu. [Accurate Mesh-based Alignment for Ground and Aerial Multi-view Stereo Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296758). [IEEE International Conference on Image Processing (ICIP), 2017](http://www.2017.ieeeicip.org/). (CCF-C, h5-index: 45) [PDF]()
 
-6. Tianxin Shi, Shuhan Shen, Xiang Gao, and Lingjie Zhu. Visual Localization Using Sparse Semantic 3D Map. IEEE International Conference on Image Processing (ICIP), 2019. (CCF-C, h5-index: 45) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8802957)
+6. Tianxin Shi, Shuhan Shen, Xiang Gao, and Lingjie Zhu. [Visual Localization Using Sparse Semantic 3D Map](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8802957). [IEEE International Conference on Image Processing (ICIP), 2019](http://2019.ieeeicip.org/). (CCF-C, h5-index: 45)
