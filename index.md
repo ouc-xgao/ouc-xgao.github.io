@@ -1,6 +1,4 @@
-### Xiang Gao
-
-<p> <a href="http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm"><img src="/homepage.jpg" height="16"></a> / 
+### Xiang Gao <p> <a href="http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm"><img src="/homepage.jpg" height="16"></a> / 
     <a href="https://scholar.google.com/citations?user=TFihLXoAAAAJ&hl=zh-CN"><img src="google_scholar.png" height="16"></a> / 
     <a href="http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm"><img src="/homepage.jpg" height="16"></a> /
     <a href="http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm"><img src="/homepage.jpg" height="16"></a> </p>
