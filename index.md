@@ -1,4 +1,4 @@
-### Xiang Gao    [<img src="/email.jpg" width="25%">](http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm)
+### Xiang Gao    [<img src="/google scholar.jpg" width="25%">](http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm)
 
 [Official Homepage](http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm)
 
