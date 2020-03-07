@@ -1,4 +1,9 @@
-### Xiang Gao|[<img src="/homepage.jpg" width="25%">](http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm)|[<img src="/google scholar.jpg" width="25%">](https://scholar.google.com/citations?user=TFihLXoAAAAJ&hl=zh-CN)
+### Xiang Gao
+
+<p> <a href="http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm"><img src="/homepage.jpg" height="16"></a> / 
+                <a href="https://scholar.google.com/citations?user=TFihLXoAAAAJ&hl=zh-CN"><img src="google scholar.jpg" height="16"></a> / 
+                <a href="http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm"><img src="/homepage.jpg" height="16"></a> /
+                <a href="http://coe.ouc.edu.cn/2019/0925/c9094a269793/page.htm"><img src="/homepage.jpg" height="16"></a> </p>
 
 ### Education & Work Experience
 
