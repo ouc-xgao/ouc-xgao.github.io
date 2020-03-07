@@ -44,7 +44,7 @@ Email: xgao@ouc.edu.cn
 
 #### Journal Papers
 
-1. Xiang Gao, Shuhan Shen, Yang Zhou, Hainan Cui, Lingjie Zhu, and Zhanyi Hu. [Ancient Chinese Architecture 3D Preservation by Merging Ground and Aerial Point Clouds](https://www.sciencedirect.com/sdfe/reader/pii/S092427161830131X/pdf). [ISPRS Journal of Photogrammetry and Remote Sensing (P&RS)](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing), 2018. (IF: 6.942, h5-index: 69)
+1. <strong>Xiang Gao</strong>, Shuhan Shen, Yang Zhou, Hainan Cui, Lingjie Zhu, and Zhanyi Hu. [Ancient Chinese Architecture 3D Preservation by Merging Ground and Aerial Point Clouds](https://www.sciencedirect.com/sdfe/reader/pii/S092427161830131X/pdf). [ISPRS Journal of Photogrammetry and Remote Sensing (P&RS)](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing), 2018. (IF: 6.942, h5-index: 69)
 
 2. Xiang Gao, Lihua Hu, Hainan Cui, Shuhan Shen, and Zhanyi Hu. [Accurate and Efficient Ground-to-Aerial Model Alignment](https://www.sciencedirect.com/sdfe/reader/pii/S0031320317304570/pdf). [Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition), 2018. (IF: 5.898, CCF-B, h5-index: 79)
 
